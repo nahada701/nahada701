@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Website Designs
 - 📫 How to reach me  www.linkedin.com/in/nahada-c
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I have a passion for designing user-friendly interfaces that make every business's work easier, and I’ve built interfaces for small businesses for free!
 
 <!---
 nahada701/nahada701 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
